@@ -1,0 +1,6 @@
+@oracle_api_demo_HostAddress = http://localhost:5079
+
+GET {{oracle_api_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
