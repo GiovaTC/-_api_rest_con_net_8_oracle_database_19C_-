@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using oracle_api_demo.Data;
-using oracle_api_demo.Models;   
+using oracle_api_demo.Models;
 
 namespace oracle_api_demo.Controllers
 {
     [ApiController]
-    [Route("api/[users]")]
+    [Route("api/users")]
     public class UsersController : ControllerBase
     {
         private readonly OracleRepository _repository;
@@ -19,7 +19,7 @@ namespace oracle_api_demo.Controllers
         public IActionResult CreateUser([FromBody] UserModel user)
         {
             _repository.InsertUser(user);
-            return Ok(new { message = "usuario registrado correctamente!" });
+            return Ok(new { message = "Usuario registrado correctamente" });
         }
 
         [HttpGet]
@@ -29,4 +29,4 @@ namespace oracle_api_demo.Controllers
             return Ok(users);
         }
     }
-}   
+}
