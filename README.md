@@ -8,6 +8,8 @@
 
 <img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/c337bd4f-d06f-4c78-8ad7-8ee79d13a2a7" />    
 
+<img width="2552" height="1073" alt="image" src="https://github.com/user-attachments/assets/890f3ee2-cf5a-4757-b301-b927f0876a51" />    
+
 A continuación presento una solución completa, profesional y ejecutable para construir una API REST en Visual Studio 2022, 
 conectada a Oracle Database 19c, incluyendo registro y consulta de información, y procedimiento detallado para pruebas con Postman.
 
