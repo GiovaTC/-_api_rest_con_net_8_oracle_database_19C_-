@@ -1,6 +1,8 @@
 # -_api_rest_con_net_8_oracle_database_19C_- :.  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/76f5cee4-f81d-4448-8c07-f391fefb60a3" />    
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/76f5cee4-f81d-4448-8c07-f391fefb60a3" />  
+
+<img width="2547" height="1075" alt="image" src="https://github.com/user-attachments/assets/1b91347a-e0b0-4855-9fa1-bf9e2de4ca17" />    
 
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/002a5fac-ce59-4198-97cd-0485a6f4da60" />    
 
